@@ -1,3 +1,0 @@
-#### I am using Aanconda.  (For those of you who are unfamiliar with anaconda. It is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. Package versions are managed by the package management system conda, which means ypu can download any package for your project using conda. For this project I installed opencv using "conda install opencv". ) I will make separate notebook to explain the setup required for the projects. 
-#### Import OpenCv - OpenCV is a library of programming functions mainly aimed at real-time computer vision. (https://opencv.org)
-#### Import Numpy - NumPy is the fundamental package for scientific computing with Python. (https://numpy.org)
